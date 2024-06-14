@@ -1,0 +1,28 @@
+input.box = {\"locator\":\"xpath=(//android.view.View[@text='%s'])[1] | (//android.widget.EditText[@text='%s'])[1]",\"desc\":\"Input box\"}
+btn.plus = {\"locator\":\"xpath=//*[@text='+']",\"desc\":\"Plus Button\"}
+btn.multiplication = {\"locator\":\"xpath=//*[@resource-id='com.sec.android.app.popupcalculator:id/bt_mul']\",\"desc\":\"Multiplication Button\"}
+btn.division = {\"locator\":\"name=\u00F7\",\"desc\":\"Division Button\"}
+btn.minus = {\"locator\":\"xpath=//*[@text='-']",\"desc\":\"Minus Button\"}
+btn.equal = {\"locator\":\"xpath=//*[@text='=']",\"desc\":\"Equal Button\"}
+btn.clear = {\"locator\":\"xpath=//*[@resource-id='com.sec.android.app.popupcalculator:id/bt_clear' or @text='C']",\"desc\":\"Clear Button\"}
+adds=xpath=//*[@resource-id="com.bt.btserviceapp:id/access_control_root_view"]/android.view.ViewGroup[2]
+edit=xpath=//*[@resource-id=\"io.perfecto.expense.tracker:id/login_email\"]
+
+letsGo=xpath=//*[@resource-id="com.commerzbank.banking.release.next:id/f_onboarding_confirm_button"]
+closeButton=xpath=//*[@resource-id="com.commerzbank.banking.release.next:id/a_information_screen_action_close"]
+userName=xpath=//*[@text="Username / User number"]
+password=xpath=//*[@text="Password / PIN"]
+loginButton=xpath=//*[@resource-id="com.commerzbank.banking.release.next:id/action_id_navbar_login_login"]
+acceptAll=xpath=//*[@resource-id="com.commerzbank.banking.release.next:id/consent_button_accept_all"]
+profileButton=xpath=//*[@resource-id="com.commerzbank.banking.release.next:id/home_tab_id_profile"]
+personalizedHints=xpath=//*[@resource-id="com.commerzbank.banking.release.next:id/profile_action_id_Personalized_Hints"]
+backButton=xpath=//*[@resource-id="com.commerzbank.banking.release.next:id/i_nav_bar_back_button"]//*[@password="false"]
+analyticsButton=xpath=//*[@resource-id="com.commerzbank.banking.release.next:id/home_tab_id_explorer"]
+startnowButton=xpath=//*[@class="android.widget.Button"]
+skipButton=xpath=//*[@text="Skip check" or @text="Check überspringen"]/..
+radioOption1=xpath=//*[@resource-id="answerSelector-0"]
+radioOption2=xpath=//*[@resource-id="answerSelector-1"]
+radioOption3=xpath=//*[@resource-id="answerSelector-2"]
+closeButton1=xpath=//*[@resource-id="com.commerzbank.banking.release.next:id/action_id_close"]
+
+rolexButton=xpath=//*[@resource-id="authscreen.start"]
