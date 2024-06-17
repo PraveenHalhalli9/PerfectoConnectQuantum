@@ -75,7 +75,7 @@
 <!--     <parameter name="driver.capabilities.perfecto:platformVersion" value="15.*" />
  <parameter name="driver.additional.capabilities" value="{'openDeviceTimeout':9}" />  -->
     <parameter name="driver.capabilities.app" value="PUBLIC:Invoice App Xcode 12.5.ipa"/>
-    <parameter name="driver.capabilities.deviceName" value="00008110-0002209A1E33801E"/>
+    <parameter name="driver.capabilities.deviceName" value="00008101-000404480EE8001E"/>
     <parameter name="driver.capabilities.bundleId" value="io.perfecto.expense.tracker"/>
     <parameter name="driver.capabilities.sensorInstrument" value="true"/>
     <parameter name="driver.capabilities.iOSResign" value="true"/>  
